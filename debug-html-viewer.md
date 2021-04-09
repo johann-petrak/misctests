@@ -446,25 +446,25 @@ var gatenlpDocView = class {
 
 
 
-<div><style>#OGVDCTJKGM-wrapper { color: black !important; }</style>
-<div id="OGVDCTJKGM-wrapper">
+<div><style>#YHXQPQDHJG-wrapper { color: black !important; }</style>
+<div id="YHXQPQDHJG-wrapper">
 
 <div>
 <style>
-#OGVDCTJKGM-content {
+#YHXQPQDHJG-content {
     width: 100%;
     height: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.OGVDCTJKGM-row {
+.YHXQPQDHJG-row {
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
 
-.OGVDCTJKGM-col {
+.YHXQPQDHJG-col {
     border: 1px solid grey;
     display: inline-block;
     min-width: 200px;
@@ -474,23 +474,23 @@ var gatenlpDocView = class {
     overflow-y: auto;
 }
 
-.OGVDCTJKGM-hdr {
+.YHXQPQDHJG-hdr {
     font-size: 1.2rem;
     font-weight: bold;
 }
 
-.OGVDCTJKGM-label {
+.YHXQPQDHJG-label {
     margin-bottom: -15px;
     display: block;
 }
 
-.OGVDCTJKGM-input {
+.YHXQPQDHJG-input {
     vertical-align: middle;
     position: relative;
     *overflow: hidden;
 }
 
-#OGVDCTJKGM-popup {
+#YHXQPQDHJG-popup {
     display: none;
     color: black;
     position: absolute;
@@ -505,43 +505,43 @@ var gatenlpDocView = class {
     overflow: auto;
 }
 
-.OGVDCTJKGM-selection {
+.YHXQPQDHJG-selection {
     margin-bottom: 5px;
 }
 
-.OGVDCTJKGM-featuretable {
+.YHXQPQDHJG-featuretable {
     margin-top: 10px;
 }
 
-.OGVDCTJKGM-fname {
+.YHXQPQDHJG-fname {
     text-align: left !important;
     font-weight: bold;
     margin-right: 10px;
 }
-.OGVDCTJKGM-fvalue {
+.YHXQPQDHJG-fvalue {
     text-align: left !important;
 }
 </style>
-  <div id="OGVDCTJKGM-content">
-        <div id="OGVDCTJKGM-popup" style="display: none;">
+  <div id="YHXQPQDHJG-content">
+        <div id="YHXQPQDHJG-popup" style="display: none;">
         </div>
-        <div class="OGVDCTJKGM-row" id="OGVDCTJKGM-row1" style="max-height: 20em; min-height:5em;">
-            <div id="OGVDCTJKGM-text-wrapper" class="OGVDCTJKGM-col" style="width:70%;">
-                <div class="OGVDCTJKGM-hdr" id="OGVDCTJKGM-dochdr"></div>
-                <div id="OGVDCTJKGM-text" style="">
+        <div class="YHXQPQDHJG-row" id="YHXQPQDHJG-row1" style="max-height: 20em; min-height:5em;">
+            <div id="YHXQPQDHJG-text-wrapper" class="YHXQPQDHJG-col" style="width:70%;">
+                <div class="YHXQPQDHJG-hdr" id="YHXQPQDHJG-dochdr"></div>
+                <div id="YHXQPQDHJG-text" style="">
                 </div>
             </div>
-            <div id="OGVDCTJKGM-chooser" class="OGVDCTJKGM-col" style="width:30%; border-left-width: 0px;"></div>
+            <div id="YHXQPQDHJG-chooser" class="YHXQPQDHJG-col" style="width:30%; border-left-width: 0px;"></div>
         </div>
-        <div class="OGVDCTJKGM-row" id="OGVDCTJKGM-row2" style="max-height: 14em; min-height: 3em;">
-            <div id="OGVDCTJKGM-details" class="OGVDCTJKGM-col" style="width:100%; border-top-width: 0px;">
+        <div class="YHXQPQDHJG-row" id="YHXQPQDHJG-row2" style="max-height: 14em; min-height: 3em;">
+            <div id="YHXQPQDHJG-details" class="YHXQPQDHJG-col" style="width:100%; border-top-width: 0px;">
             </div>
         </div>
     </div>
 
     <script type="text/javascript">
-    let OGVDCTJKGM_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
-    new gatenlpDocView(new gatenlpDocRep(OGVDCTJKGM_data), "OGVDCTJKGM-").init();
+    let YHXQPQDHJG_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
+    new gatenlpDocView(new gatenlpDocRep(YHXQPQDHJG_data), "YHXQPQDHJG-").init();
     </script>
   </div>
 
@@ -563,25 +563,25 @@ doc._show_colab(display=True)
 
 
 
-<div><style>#VCPNDZXYIP-wrapper { color: black !important; }</style>
-<div id="VCPNDZXYIP-wrapper">
+<div><style>#ABAFOTVHVG-wrapper { color: black !important; }</style>
+<div id="ABAFOTVHVG-wrapper">
 
 <div>
 <style>
-#VCPNDZXYIP-content {
+#ABAFOTVHVG-content {
     width: 100%;
     height: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.VCPNDZXYIP-row {
+.ABAFOTVHVG-row {
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
 
-.VCPNDZXYIP-col {
+.ABAFOTVHVG-col {
     border: 1px solid grey;
     display: inline-block;
     min-width: 200px;
@@ -591,23 +591,23 @@ doc._show_colab(display=True)
     overflow-y: auto;
 }
 
-.VCPNDZXYIP-hdr {
+.ABAFOTVHVG-hdr {
     font-size: 1.2rem;
     font-weight: bold;
 }
 
-.VCPNDZXYIP-label {
+.ABAFOTVHVG-label {
     margin-bottom: -15px;
     display: block;
 }
 
-.VCPNDZXYIP-input {
+.ABAFOTVHVG-input {
     vertical-align: middle;
     position: relative;
     *overflow: hidden;
 }
 
-#VCPNDZXYIP-popup {
+#ABAFOTVHVG-popup {
     display: none;
     color: black;
     position: absolute;
@@ -622,43 +622,43 @@ doc._show_colab(display=True)
     overflow: auto;
 }
 
-.VCPNDZXYIP-selection {
+.ABAFOTVHVG-selection {
     margin-bottom: 5px;
 }
 
-.VCPNDZXYIP-featuretable {
+.ABAFOTVHVG-featuretable {
     margin-top: 10px;
 }
 
-.VCPNDZXYIP-fname {
+.ABAFOTVHVG-fname {
     text-align: left !important;
     font-weight: bold;
     margin-right: 10px;
 }
-.VCPNDZXYIP-fvalue {
+.ABAFOTVHVG-fvalue {
     text-align: left !important;
 }
 </style>
-  <div id="VCPNDZXYIP-content">
-        <div id="VCPNDZXYIP-popup" style="display: none;">
+  <div id="ABAFOTVHVG-content">
+        <div id="ABAFOTVHVG-popup" style="display: none;">
         </div>
-        <div class="VCPNDZXYIP-row" id="VCPNDZXYIP-row1" style="max-height: 20em; min-height:5em;">
-            <div id="VCPNDZXYIP-text-wrapper" class="VCPNDZXYIP-col" style="width:70%;">
-                <div class="VCPNDZXYIP-hdr" id="VCPNDZXYIP-dochdr"></div>
-                <div id="VCPNDZXYIP-text" style="">
+        <div class="ABAFOTVHVG-row" id="ABAFOTVHVG-row1" style="max-height: 20em; min-height:5em;">
+            <div id="ABAFOTVHVG-text-wrapper" class="ABAFOTVHVG-col" style="width:70%;">
+                <div class="ABAFOTVHVG-hdr" id="ABAFOTVHVG-dochdr"></div>
+                <div id="ABAFOTVHVG-text" style="">
                 </div>
             </div>
-            <div id="VCPNDZXYIP-chooser" class="VCPNDZXYIP-col" style="width:30%; border-left-width: 0px;"></div>
+            <div id="ABAFOTVHVG-chooser" class="ABAFOTVHVG-col" style="width:30%; border-left-width: 0px;"></div>
         </div>
-        <div class="VCPNDZXYIP-row" id="VCPNDZXYIP-row2" style="max-height: 14em; min-height: 3em;">
-            <div id="VCPNDZXYIP-details" class="VCPNDZXYIP-col" style="width:100%; border-top-width: 0px;">
+        <div class="ABAFOTVHVG-row" id="ABAFOTVHVG-row2" style="max-height: 14em; min-height: 3em;">
+            <div id="ABAFOTVHVG-details" class="ABAFOTVHVG-col" style="width:100%; border-top-width: 0px;">
             </div>
         </div>
     </div>
 
     <script type="text/javascript">
-    let VCPNDZXYIP_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
-    new gatenlpDocView(new gatenlpDocRep(VCPNDZXYIP_data), "VCPNDZXYIP-").init();
+    let ABAFOTVHVG_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
+    new gatenlpDocView(new gatenlpDocRep(ABAFOTVHVG_data), "ABAFOTVHVG-").init();
     </script>
   </div>
 
@@ -690,25 +690,25 @@ doc.show(to="colab")
 
 
 
-<div><style>#PIGHUVNGEE-wrapper { color: black !important; }</style>
-<div id="PIGHUVNGEE-wrapper">
+<div><style>#WWNVLUXHOV-wrapper { color: black !important; }</style>
+<div id="WWNVLUXHOV-wrapper">
 
 <div>
 <style>
-#PIGHUVNGEE-content {
+#WWNVLUXHOV-content {
     width: 100%;
     height: 100%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-.PIGHUVNGEE-row {
+.WWNVLUXHOV-row {
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
 
-.PIGHUVNGEE-col {
+.WWNVLUXHOV-col {
     border: 1px solid grey;
     display: inline-block;
     min-width: 200px;
@@ -718,23 +718,23 @@ doc.show(to="colab")
     overflow-y: auto;
 }
 
-.PIGHUVNGEE-hdr {
+.WWNVLUXHOV-hdr {
     font-size: 1.2rem;
     font-weight: bold;
 }
 
-.PIGHUVNGEE-label {
+.WWNVLUXHOV-label {
     margin-bottom: -15px;
     display: block;
 }
 
-.PIGHUVNGEE-input {
+.WWNVLUXHOV-input {
     vertical-align: middle;
     position: relative;
     *overflow: hidden;
 }
 
-#PIGHUVNGEE-popup {
+#WWNVLUXHOV-popup {
     display: none;
     color: black;
     position: absolute;
@@ -749,43 +749,151 @@ doc.show(to="colab")
     overflow: auto;
 }
 
-.PIGHUVNGEE-selection {
+.WWNVLUXHOV-selection {
     margin-bottom: 5px;
 }
 
-.PIGHUVNGEE-featuretable {
+.WWNVLUXHOV-featuretable {
     margin-top: 10px;
 }
 
-.PIGHUVNGEE-fname {
+.WWNVLUXHOV-fname {
     text-align: left !important;
     font-weight: bold;
     margin-right: 10px;
 }
-.PIGHUVNGEE-fvalue {
+.WWNVLUXHOV-fvalue {
     text-align: left !important;
 }
 </style>
-  <div id="PIGHUVNGEE-content">
-        <div id="PIGHUVNGEE-popup" style="display: none;">
+  <div id="WWNVLUXHOV-content">
+        <div id="WWNVLUXHOV-popup" style="display: none;">
         </div>
-        <div class="PIGHUVNGEE-row" id="PIGHUVNGEE-row1" style="max-height: 20em; min-height:5em;">
-            <div id="PIGHUVNGEE-text-wrapper" class="PIGHUVNGEE-col" style="width:70%;">
-                <div class="PIGHUVNGEE-hdr" id="PIGHUVNGEE-dochdr"></div>
-                <div id="PIGHUVNGEE-text" style="">
+        <div class="WWNVLUXHOV-row" id="WWNVLUXHOV-row1" style="max-height: 20em; min-height:5em;">
+            <div id="WWNVLUXHOV-text-wrapper" class="WWNVLUXHOV-col" style="width:70%;">
+                <div class="WWNVLUXHOV-hdr" id="WWNVLUXHOV-dochdr"></div>
+                <div id="WWNVLUXHOV-text" style="">
                 </div>
             </div>
-            <div id="PIGHUVNGEE-chooser" class="PIGHUVNGEE-col" style="width:30%; border-left-width: 0px;"></div>
+            <div id="WWNVLUXHOV-chooser" class="WWNVLUXHOV-col" style="width:30%; border-left-width: 0px;"></div>
         </div>
-        <div class="PIGHUVNGEE-row" id="PIGHUVNGEE-row2" style="max-height: 14em; min-height: 3em;">
-            <div id="PIGHUVNGEE-details" class="PIGHUVNGEE-col" style="width:100%; border-top-width: 0px;">
+        <div class="WWNVLUXHOV-row" id="WWNVLUXHOV-row2" style="max-height: 14em; min-height: 3em;">
+            <div id="WWNVLUXHOV-details" class="WWNVLUXHOV-col" style="width:100%; border-top-width: 0px;">
             </div>
         </div>
     </div>
 
     <script type="text/javascript">
-    let PIGHUVNGEE_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
-    new gatenlpDocView(new gatenlpDocRep(PIGHUVNGEE_data), "PIGHUVNGEE-").init();
+    let WWNVLUXHOV_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
+    new gatenlpDocView(new gatenlpDocRep(WWNVLUXHOV_data), "WWNVLUXHOV-").init();
+    </script>
+  </div>
+
+</div></div>
+
+
+
+```python
+doc.show(to="jupyter")
+```
+
+
+<div><style>#JALXJUKTCI-wrapper { color: black !important; }</style>
+<div id="JALXJUKTCI-wrapper">
+
+<div>
+<style>
+#JALXJUKTCI-content {
+    width: 100%;
+    height: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.JALXJUKTCI-row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.JALXJUKTCI-col {
+    border: 1px solid grey;
+    display: inline-block;
+    min-width: 200px;
+    padding: 5px;
+    /* white-space: normal; */
+    /* white-space: pre-wrap; */
+    overflow-y: auto;
+}
+
+.JALXJUKTCI-hdr {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.JALXJUKTCI-label {
+    margin-bottom: -15px;
+    display: block;
+}
+
+.JALXJUKTCI-input {
+    vertical-align: middle;
+    position: relative;
+    *overflow: hidden;
+}
+
+#JALXJUKTCI-popup {
+    display: none;
+    color: black;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+    background: #aaaaaa;
+    width: 60%;
+    height: 60%;
+    z-index: 50;
+    padding: 25px 25px 25px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+.JALXJUKTCI-selection {
+    margin-bottom: 5px;
+}
+
+.JALXJUKTCI-featuretable {
+    margin-top: 10px;
+}
+
+.JALXJUKTCI-fname {
+    text-align: left !important;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.JALXJUKTCI-fvalue {
+    text-align: left !important;
+}
+</style>
+  <div id="JALXJUKTCI-content">
+        <div id="JALXJUKTCI-popup" style="display: none;">
+        </div>
+        <div class="JALXJUKTCI-row" id="JALXJUKTCI-row1" style="max-height: 20em; min-height:5em;">
+            <div id="JALXJUKTCI-text-wrapper" class="JALXJUKTCI-col" style="width:70%;">
+                <div class="JALXJUKTCI-hdr" id="JALXJUKTCI-dochdr"></div>
+                <div id="JALXJUKTCI-text" style="">
+                </div>
+            </div>
+            <div id="JALXJUKTCI-chooser" class="JALXJUKTCI-col" style="width:30%; border-left-width: 0px;"></div>
+        </div>
+        <div class="JALXJUKTCI-row" id="JALXJUKTCI-row2" style="max-height: 14em; min-height: 3em;">
+            <div id="JALXJUKTCI-details" class="JALXJUKTCI-col" style="width:100%; border-top-width: 0px;">
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+    let JALXJUKTCI_data = {"annotation_sets": {"": {"name": "detached-from:", "annotations": [{"type": "Ann1", "start": 0, "end": 3, "id": 0, "features": {}}, {"type": "Ann2", "start": 4, "end": 6, "id": 1, "features": {}}], "next_annid": 2}}, "text": "Just some document", "features": {}, "offset_type": "j", "name": ""} ; 
+    new gatenlpDocView(new gatenlpDocRep(JALXJUKTCI_data), "JALXJUKTCI-").init();
     </script>
   </div>
 
